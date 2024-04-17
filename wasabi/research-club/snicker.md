@@ -18,7 +18,7 @@ We're taking it from GitHub, so the link is here.
 The PowerPoint will be uploaded somewhere.
 I'll make sure that happens.
 
-## Last week - Knapsack Coinjoin
+## Last week - Knapsack Coinjoin Workshop
 
 Aviv Milner : 00:00:40
 
