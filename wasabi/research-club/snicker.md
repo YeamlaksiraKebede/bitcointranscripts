@@ -4,7 +4,7 @@ transcript_by: yami-py via review.btctranscripts.com
 media: https://www.youtube.com/watch?v=S0C-50QTteA
 tags: ["research","coinjoin","bitcoin-core"]
 speakers: ["Adam Gibson","Aviv Milner","Nopara"]
-categories: ["workshop"]
+categories: ["conference"]
 date: 2020-01-13
 ---
 Aviv Milner : 00:00:01
