@@ -1203,7 +1203,6 @@ Aviv Milner : 01:21:43
 Yes, Thank you.
 
 Nopara: 01:21:45
-
 Thank you all.
 
 Nopara: 01:21:47
