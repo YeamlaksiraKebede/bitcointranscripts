@@ -3,7 +3,7 @@ title: "The SNICKER Protocol"
 transcript_by: yami-py via review.btctranscripts.com
 media: https://www.youtube.com/watch?v=S0C-50QTteA
 tags: ["research","coinjoin"]
-speakers: ["Adam Gibson","Aviv Milner"]
+speakers: ["Adam Gibson","Aviv Milner","Nopara"]
 categories: ["workshop"]
 date: 2020-01-13
 ---
