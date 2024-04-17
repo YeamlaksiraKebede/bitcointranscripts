@@ -18,20 +18,20 @@ We're taking it from GitHub, so the link is here.
 The PowerPoint will be uploaded somewhere.
 I'll make sure that happens.
 
-## Last week - Knapsack Coinjoin Workshop
+# Last week - Knapsack Coinjoin Workshop
 
 Aviv Milner : 00:00:40
 
 Okay, last week, just a quick reminder, we did an AppSack CoinJoin, and our summary was that we can mix with arbitrary values if we do a tactical partition of outputs, breaking them down further to make more possible interpretations of a coin joint transaction.
 
-## Wasabi Research Club
+# Wasabi Research Club
 
 Aviv Milner : 00:01:00
 
 So last week was Knapsack, this week is SNICKER, next week we will discuss at the end of this video.
 And you can always find out what we're doing at the Wasabi Research Club link.
 
-## Problem with current CoinJoins
+# Problem with current CoinJoins
 
 Aviv Milner : 00:01:11
 
@@ -49,7 +49,7 @@ You have these inputs, you have these outputs, and you have these mixed green ou
 And when you think about what it is, it's fundamentally consists of three things that need to be allocated from every participant, which is an input, an output, and a signature.
 So those three things we're going to address in this paper.
 
-## Inputs
+# Inputs
 
 Aviv Milner : 00:02:33
 
