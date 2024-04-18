@@ -4,7 +4,7 @@ transcript_by: yami-py via review.btctranscripts.com
 media: https://www.youtube.com/watch?v=S0C-50QTteA
 tags: ["research","coinjoin"]
 speakers: ["Adam Gibson"]
-categories: ["club"]
+categories: ["workshop"]
 date: 2020-01-13
 ---
 Aviv Milner : 00:00:01
