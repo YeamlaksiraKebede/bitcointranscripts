@@ -26,7 +26,7 @@ Okay, last week, just a quick reminder, we did an AppSack CoinJoin, and our summ
 
 # Wasabi Research Club
 
-Aviv Milner : 00:01:00
+Aviv Milner : 00:01:00 
 
 So last week was Knapsack, this week is SNICKER, next week we will discuss at the end of this video.
 And you can always find out what we're doing at the Wasabi Research Club link.
